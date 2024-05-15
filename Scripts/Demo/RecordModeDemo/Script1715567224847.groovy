@@ -46,5 +46,7 @@ WebUI.click(findTestObject('Object Repository/ModeDemo/button_Book Appointment')
 
 WebUI.click(findTestObject('Object Repository/ModeDemo/a_Go to Homepage'))
 
+WebUI.delay(2)
+
 WebUI.closeBrowser()
 
