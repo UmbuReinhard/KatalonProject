@@ -34,6 +34,9 @@ WebUI.click(findTestObject('Object Repository/ModeDemo/button_Login'))
 WebUI.selectOptionByValue(findTestObject('Object Repository/ModeDemo/select_Tokyo CURA Healthcare Center        _5b4107'), 
     'Hongkong CURA Healthcare Center', true)
 
+
+
+
 WebUI.click(findTestObject('Object Repository/ModeDemo/input_Medicaid_programs'))
 
 WebUI.click(findTestObject('Object Repository/ModeDemo/input_Visit Date (Required)_visit_date'))
@@ -46,7 +49,7 @@ WebUI.click(findTestObject('Object Repository/ModeDemo/button_Book Appointment')
 
 WebUI.click(findTestObject('Object Repository/ModeDemo/a_Go to Homepage'))
 
-WebUI.delay(2)
+WebUI.delay(3)
 
 WebUI.closeBrowser()
 
