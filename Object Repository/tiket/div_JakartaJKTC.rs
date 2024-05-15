@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_JakartaJKTC</name>
+   <tag></tag>
+   <elementGuidId>b4cffef7-1435-481d-9a2d-d8fdbc8eacde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[3]/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.SearchForm_airport_input__FME4x > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9cb5048a-a97d-4d4e-9d6d-08dae74a4812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JakartaJKTC</value>
+      <webElementGuid>67093689-f46f-4ea1-b848-9afba5240a96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;AppLayout_main__GlPPb&quot;]/div[@class=&quot;flight_wrapper__00uBz&quot;]/div[@class=&quot;Hero_wrapper__Li4qE Hero_overlay__I5Sz9&quot;]/div[@class=&quot;Hero_container__0xNr_&quot;]/div[@class=&quot;SearchForm_search_form__0e7Al SearchForm_desktop_landing__iBYki&quot;]/div[@class=&quot;SearchForm_airport_picker__8de0H SearchForm_desktop__SBAm7&quot;]/div[@class=&quot;SearchForm_airport_input__FME4x&quot;]/div[1]</value>
+      <webElementGuid>65b52aa3-03b6-4b8d-9265-335050117364</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div/div[2]/div/div/div</value>
+      <webElementGuid>b9bf8b1c-a8c2-4673-84ee-c3a6fd922892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cek Harga Tiket Pesawat Online Murah dan Promo Hari Ini'])[1]/following::div[4]</value>
+      <webElementGuid>a1ec2cbc-fb70-4a83-8760-1aa58257076d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari'])[1]/following::div[8]</value>
+      <webElementGuid>371144b4-2eb4-4e36-b433-e215c68a9738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div</value>
+      <webElementGuid>6a7bd86a-7eec-465c-9d4a-8e036075fa5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'JakartaJKTC' or . = 'JakartaJKTC')]</value>
+      <webElementGuid>37d5875b-0c8c-4fd0-88cd-7b169ee65a46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

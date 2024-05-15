@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Variable Demo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>342b8e18-f8c8-455d-a986-37f20d22c1d8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>096c9edc-a908-49a8-a605-5f4f25dce6cd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Haii\r\n'</defaultValue>
+      <description></description>
+      <id>096c9edc-a908-49a8-a605-5f4f25dce6cd</id>
+      <masked>false</masked>
+      <name>contoh</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>83d2c23c-2b88-44cf-999b-b098a4ec945b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Juni 2024'])[2]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>df9aa909-e7ac-4883-bfa0-f4ca921c846f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>9986223a-e3e9-4c4c-b239-e4c79b1be370</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns:xlink</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xlink</value>
+      <webElementGuid>3fabc261-a0d0-4090-a4be-081de2f6148f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>a70de1c9-4755-4dca-b8fb-f92ae8191e94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>ad071b18-1755-4a1f-a14e-da3f20a512ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>b2720a7e-9f0d-489d-8f44-3f6213c316c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-root&quot;)/div[20]/div[@class=&quot;BaseModal_modal__NAWjb&quot;]/div[@class=&quot;BaseModal_modal_wrapper__h_1yb&quot;]/section[@class=&quot;Modal_modal_popup__oFyfk Modal_modal_popup_large__jY60X Modal_modal_popup_width_auto__32vvC&quot;]/div[@class=&quot;ModalBody_modal_body__G2U0m ModalBody_overflow_bottom__Axor2&quot;]/div[@class=&quot;ModalBody_content__ssULq Text_text__DSnue Text_variant_highEmphasis__ubq3k Text_size_b2__y3Q2E&quot;]/div[@class=&quot;CalendarDesktop_calendar__idtOK&quot;]/div[@class=&quot;CalendarDesktop_months_wrapper__9dlkY&quot;]/section[@class=&quot;CalendarDesktop_month__grzJo&quot;]/button[@class=&quot;CalendarDesktop_next_button__T6rGr&quot;]/svg[1]</value>
+      <webElementGuid>4b10c849-ae6f-4cc6-ba9c-6cbf1927d3da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Juni 2024'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>23620058-5c58-4b8d-8ed9-532987c128fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hari Ini'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>ac3efc0e-8bfc-4f8c-b6d3-eefe681a66ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Min'])[4]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>12de7ee4-e5de-451d-8e53-cb179b7463ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sen'])[4]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>65dfb9ad-4352-4b7c-9309-bbbbc24c6474</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

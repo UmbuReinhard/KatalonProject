@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_1</name>
+   <tag></tag>
+   <elementGuidId>b7bdc7ff-baa0-4e8d-b234-6bbed6aca6a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Atur Tanggal'])[2]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.CalendarDesktop_prev_button__QcXqf > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>4a296421-ef4c-496f-945b-6d4d54c1cd49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>3f277b73-e82e-4e79-b91f-099d579e44df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns:xlink</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xlink</value>
+      <webElementGuid>d48cb187-2d11-42e4-923f-abeeb4656462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>e05e04be-e96f-4978-b308-87d6184adcf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>1b7e209e-ee27-498e-bf15-b221e611d2fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>34ea230b-c6c7-4f48-bfab-b9ce63c14085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-root&quot;)/div[20]/div[@class=&quot;BaseModal_modal__NAWjb&quot;]/div[@class=&quot;BaseModal_modal_wrapper__h_1yb&quot;]/section[@class=&quot;Modal_modal_popup__oFyfk Modal_modal_popup_large__jY60X Modal_modal_popup_width_auto__32vvC&quot;]/div[@class=&quot;ModalBody_modal_body__G2U0m ModalBody_overflow_bottom__Axor2&quot;]/div[@class=&quot;ModalBody_content__ssULq Text_text__DSnue Text_variant_highEmphasis__ubq3k Text_size_b2__y3Q2E&quot;]/div[@class=&quot;CalendarDesktop_calendar__idtOK&quot;]/div[@class=&quot;CalendarDesktop_months_wrapper__9dlkY&quot;]/section[@class=&quot;CalendarDesktop_month__grzJo&quot;]/button[@class=&quot;CalendarDesktop_prev_button__QcXqf&quot;]/svg[1]</value>
+      <webElementGuid>094f9d3f-d548-4184-a453-49196514cdd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atur Tanggal'])[2]/following::*[name()='svg'][2]</value>
+      <webElementGuid>4e90a4ca-c760-44c3-919c-d1aa190afcf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga termurah dalam IDR'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>01e34c58-ea35-497a-9cad-a159113191c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Juni 2024'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>5de9f0f3-c678-41fc-b3a6-dc65f899976c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Min'])[3]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>d4dc5f59-f281-4af0-8e8b-52d96a7541e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

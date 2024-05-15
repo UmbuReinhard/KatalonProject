@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mau ke mana</name>
+   <tag></tag>
+   <elementGuidId>7a3457d6-ba60-4faf-8a86-a2d2505f503f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/div[3]/div/div[2]/div/div[3]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.Text_text__DSnue.Text_variant_lowEmphasis__VihAq.Text_size_b1__bsanT.Text_weight_bold__m4BAY</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>359988db-e9cc-4c0d-be49-4087c1df7a13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Text_text__DSnue Text_variant_lowEmphasis__VihAq Text_size_b1__bsanT Text_weight_bold__m4BAY</value>
+      <webElementGuid>4f2b6f10-2a48-4d67-8433-c6f28ec293d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mau ke mana?</value>
+      <webElementGuid>77075a2a-663b-44a3-929d-f0a1fbb10ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;AppLayout_main__GlPPb&quot;]/div[@class=&quot;flight_wrapper__00uBz&quot;]/div[@class=&quot;Hero_wrapper__Li4qE Hero_overlay__I5Sz9&quot;]/div[@class=&quot;Hero_container__0xNr_&quot;]/div[@class=&quot;SearchForm_search_form__0e7Al SearchForm_desktop_landing__iBYki&quot;]/div[@class=&quot;SearchForm_airport_picker__8de0H SearchForm_desktop__SBAm7&quot;]/div[@class=&quot;SearchForm_airport_input__FME4x&quot;]/div[1]/span[@class=&quot;Text_text__DSnue Text_variant_lowEmphasis__VihAq Text_size_b1__bsanT Text_weight_bold__m4BAY&quot;]</value>
+      <webElementGuid>c9eaefca-fd09-495d-960a-9551dea85564</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/div[3]/div/div[2]/div/div[3]/div/span</value>
+      <webElementGuid>76fcaa1b-2674-4d2f-a741-c8afe77ab81b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JKTC'])[1]/following::span[1]</value>
+      <webElementGuid>1f037009-dc1b-47bc-922a-65466133c844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sen, 13 Mei'])[1]/preceding::span[1]</value>
+      <webElementGuid>ef94b9c2-cf85-445a-b712-12a33813f71b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pulang-pergi?'])[1]/preceding::span[2]</value>
+      <webElementGuid>6dd94d54-7f74-4ce5-926d-ca338ae7c8f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/span</value>
+      <webElementGuid>269269eb-5e2e-4c3f-9bcf-2f5aa155cd6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mau ke mana?' or . = 'Mau ke mana?')]</value>
+      <webElementGuid>f936309e-303e-4da1-b8af-3c97c8c6f722</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

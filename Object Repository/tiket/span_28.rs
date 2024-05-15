@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_28</name>
+   <tag></tag>
+   <elementGuidId>e0e209cc-dbdc-4d3b-be3e-625f169df69d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-root']/div[20]/div/div/section/div/div/div/div/section/div[3]/div[5]/div[3]/button/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6b516f33-32b2-4cff-a491-ffde4947e089</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>28 Mei 2024 Selasa</value>
+      <webElementGuid>9fbe883e-db9f-4afc-bc8d-7d32560122f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Day_day_number__rQ1Bc Day_with_price_specific_label__evtfW Text_text__DSnue Text_variant_highEmphasis__ubq3k Text_size_b3__6n_9j Text_weight_bold__m4BAY</value>
+      <webElementGuid>4dcccc7a-7418-47d3-88c2-1dab52969a2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>28</value>
+      <webElementGuid>4109b691-5782-462e-b2c6-62bd67d51681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-root&quot;)/div[20]/div[@class=&quot;BaseModal_modal__NAWjb&quot;]/div[@class=&quot;BaseModal_modal_wrapper__h_1yb&quot;]/section[@class=&quot;Modal_modal_popup__oFyfk Modal_modal_popup_large__jY60X Modal_modal_popup_width_auto__32vvC&quot;]/div[@class=&quot;ModalBody_modal_body__G2U0m ModalBody_overflow_bottom__Axor2&quot;]/div[@class=&quot;ModalBody_content__ssULq Text_text__DSnue Text_variant_highEmphasis__ubq3k Text_size_b2__y3Q2E&quot;]/div[@class=&quot;CalendarDesktop_calendar__idtOK&quot;]/div[@class=&quot;CalendarDesktop_months_wrapper__9dlkY&quot;]/section[@class=&quot;CalendarDesktop_month__grzJo&quot;]/div[@class=&quot;CalendarDesktop_weeks_container__8wRd9&quot;]/div[@class=&quot;CalendarDesktop_week__sb_KD&quot;]/div[@class=&quot;DayContainer_day_container__BVLF_ DayContainer_desktop__urkYS DayContainer_range_within__HXACp&quot;]/button[@class=&quot;Day_day__PNTH9&quot;]/span[@class=&quot;Day_day_number_container__MNlNn&quot;]/span[@class=&quot;Day_day_number__rQ1Bc Day_with_price_specific_label__evtfW Text_text__DSnue Text_variant_highEmphasis__ubq3k Text_size_b3__6n_9j Text_weight_bold__m4BAY&quot;]</value>
+      <webElementGuid>b3bbbd54-fa44-4bcd-88df-37f9c33b2d12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-root']/div[20]/div/div/section/div/div/div/div/section/div[3]/div[5]/div[3]/button/span/span</value>
+      <webElementGuid>56b66557-ee92-49f0-9086-8718e7047a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hari Ini'])[2]/following::span[32]</value>
+      <webElementGuid>21416981-64e8-482f-9284-f35d32fbad23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sab'])[3]/following::span[56]</value>
+      <webElementGuid>f264234b-e36c-4311-b1d9-7b5f9ad80dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Juni 2024'])[2]/preceding::span[9]</value>
+      <webElementGuid>90115204-8d95-4231-a3fa-7790f08a1e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Min'])[4]/preceding::span[9]</value>
+      <webElementGuid>ff290634-e74e-4db2-a11c-fc65d778171d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[20]/div/div/section/div/div/div/div/section/div[3]/div[5]/div[3]/button/span/span</value>
+      <webElementGuid>8fd0f002-70c9-46aa-abb4-c9c5d2edaa39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '28' or . = '28')]</value>
+      <webElementGuid>db8d21c2-42e2-4a49-8d07-5e2bed8066ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

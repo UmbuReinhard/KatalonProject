@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Denpasar-Bali</name>
+   <tag></tag>
+   <elementGuidId>41aef728-be21-42c7-81f7-41c6dc999ee2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-root']/div[5]/div/div/section/div/div/div/div[2]/div/div/button[6]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4f2211cc-c919-4b69-9006-552f0471eb5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Chip_text__h3BJg Text_text__DSnue Text_variant_highEmphasis__ubq3k Text_size_b2__y3Q2E Text_weight_regular__pJ2W2</value>
+      <webElementGuid>d9a00ddb-7c6b-4691-a3be-4e7bdec5f0e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Denpasar-Bali</value>
+      <webElementGuid>3be3adf7-657a-49ea-b756-72701f51577c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-root&quot;)/div[5]/div[@class=&quot;BaseModal_modal__NAWjb&quot;]/div[@class=&quot;BaseModal_modal_wrapper__h_1yb&quot;]/section[@class=&quot;Modal_modal_popup__oFyfk Modal_modal_popup_small__5tnZS Modal_modal_popup_width_default__GfN4T&quot;]/div[@class=&quot;ModalBody_modal_body__G2U0m ModalBody_with_padding__kn_5m&quot;]/div[@class=&quot;ModalBody_content__ssULq Text_text__DSnue Text_variant_highEmphasis__ubq3k Text_size_b2__y3Q2E&quot;]/div[@class=&quot;AirportForm_container__JDii5&quot;]/div[@class=&quot;AirportForm_body__3JXUH&quot;]/div[1]/div[@class=&quot;AirportForm_popular_cities__cFgai&quot;]/button[@class=&quot;Chip_chip__d6PEp Chip_size_default__3nkQo AirportForm_chip_popular_cities__v_U7c&quot;]/span[@class=&quot;Chip_text__h3BJg Text_text__DSnue Text_variant_highEmphasis__ubq3k Text_size_b2__y3Q2E Text_weight_regular__pJ2W2&quot;]</value>
+      <webElementGuid>21fa87d7-8efe-41f4-a6be-31998e66d84c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-root']/div[5]/div/div/section/div/div/div/div[2]/div/div/button[6]/span</value>
+      <webElementGuid>aab6c74b-3a64-4d05-b668-c50e637120eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yogyakarta'])[1]/following::span[1]</value>
+      <webElementGuid>b7ab3607-5904-4259-b7cf-b362b6b18e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Makassar'])[3]/following::span[2]</value>
+      <webElementGuid>3e4f396c-be3c-4541-a078-6adc15f3ffe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Padang'])[1]/preceding::span[1]</value>
+      <webElementGuid>c64f07ad-9bf1-4693-9914-d02f16140c04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Palembang'])[1]/preceding::span[2]</value>
+      <webElementGuid>0c540636-e640-44e5-a88a-4e8e9d5489a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Denpasar-Bali']/parent::*</value>
+      <webElementGuid>b707314b-7185-442d-b64a-edccc9b24c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button[6]/span</value>
+      <webElementGuid>31be9f1a-0049-4b6b-8ab1-1b4b1cf20d02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Denpasar-Bali' or . = 'Denpasar-Bali')]</value>
+      <webElementGuid>c09309af-72ff-4fa8-b044-e4d62c4a4657</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
